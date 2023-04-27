@@ -1,0 +1,18 @@
+Go through every color and see the first 4 moves that it can do
+    If one color has only one move, make sure the other colors cannot go into that square
+
+Suduko like solver
+
+
+Last night i got baccios
+i was walking back with olivia near joss
+and some dude yells out his window
+YO
+IS THAT PIZZA
+im like yes want a slice
+and hes like hell yea
+so he comes down and i give him the rest of the box cause i was bascially full
+and he gives me a joint
+
+
+it will be my demise
